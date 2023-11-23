@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.ToDo" parent="Theme.Material3.Light.NoActionBar">
+
+        <item name="colorPrimary">@android:color/holo_orange_dark</item>
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+
+    <style name="Theme.ToDo" parent="Base.Theme.ToDo" >
+
+        <item name="colorPrimary">@android:color/holo_orange_dark</item>
+        <item name="colorAccent">@android:color/white</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+
+</resources>

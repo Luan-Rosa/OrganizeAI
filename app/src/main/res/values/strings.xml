@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrganizeAI</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="todo">TODO</string>
+    <string name="salvar">Salvar</string>
+    <string name="nova_tarefa">Nova Tarefa</string>
+    <string name="tarefa_simples_no_app">Tarefa Simples no App</string>
+</resources>
